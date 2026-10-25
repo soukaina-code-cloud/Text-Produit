@@ -10,7 +10,8 @@ import "./App.css";
 
 // import App from "./GestionProduit/App";
 import { BrowserRouter } from "react-router-dom";
-import App from "./GestionSalleSport/App";
+import App from "./testProduit/App";
+
 
 
 const root=createRoot(document.getElementById('root'));
