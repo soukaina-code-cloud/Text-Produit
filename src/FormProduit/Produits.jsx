@@ -23,6 +23,6 @@ let productsFilterd=products.filter(product=>(
 ));
 return(<>
 <Filter filterd={filterd}/>
-<Listing products={productsFilterd}/>
+{/* <Listing products={productsFilterd}/> */}
 </>)
 }
